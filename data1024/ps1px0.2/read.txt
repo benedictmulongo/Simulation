@@ -1,0 +1,4 @@
+population 1024 
+ps = 1
+px = 0.2
+avslutas inte px <= 0.5 ):
