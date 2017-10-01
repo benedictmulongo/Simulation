@@ -1,0 +1,4 @@
+simulation för en 
+ps = 1
+px = 0.5
+körning avslutas
