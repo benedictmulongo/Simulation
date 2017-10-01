@@ -1,0 +1,4 @@
+Data för en population av 25 individ
+ps = 0.2
+px = 0.2 
+[5,3]
